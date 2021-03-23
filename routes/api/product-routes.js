@@ -19,11 +19,10 @@ router.get('/', async (req, res) => {
 
 // get one product
 router.get('/:id', async (req, res) => {
-  // find a single product by its `id`
   try {
     const productData = await Product.findByPk(req.params.id, {
      //include associated category + tag data
-      include: [{model: Category}, {Tag, through: ProductTag, as: 'tagged_product'}]
+      include: [{model: Category}, {model: Tag, through: ProductTag, as: 'tagged_products'}]
     });
     //if no product with that id, return 404, otherwise return data
     if(!productData) {
