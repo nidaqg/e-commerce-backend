@@ -39,7 +39,8 @@ Opening the GET routes in Insomnia Core for categories, products or tags will di
 
 A demo of the app can be viewed here: 
 [Part1](https://drive.google.com/file/d/1dU7uAPc93S36OZZ0z1LOT1iSamBNYMIn/view)
-[Part2] (https://drive.google.com/file/d/1jsHGbkLbZ2rFSJrrtnTcwuQBVnDAysP_/view)
+
+[Part2](https://drive.google.com/file/d/1jsHGbkLbZ2rFSJrrtnTcwuQBVnDAysP_/view)
 
 ## Contributing
  ![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)
@@ -75,7 +76,7 @@ SOFTWARE.
 The repo for this project can be found here: https://github.com/nidaqg/e-commerce-backend
 
 video walkthrough links: 
-[Part1](https://drive.google.com/file/d/1dU7uAPc93S36OZZ0z1LOT1iSamBNYMIn/view)
-[Part2] (https://drive.google.com/file/d/1jsHGbkLbZ2rFSJrrtnTcwuQBVnDAysP_/view)
+Part1: https://drive.google.com/file/d/1dU7uAPc93S36OZZ0z1LOT1iSamBNYMIn/view
+Part2: https://drive.google.com/file/d/1jsHGbkLbZ2rFSJrrtnTcwuQBVnDAysP_/view
 
 For any questions or to report issues, email me at: nidaqg@gmail.com
