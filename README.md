@@ -38,6 +38,7 @@ As this app ony covers the backend of the application, to view functionality of 
 Opening the GET routes in Insomnia Core for categories, products or tags will display the data for each of these routes in formatted JSON. In the same way, making POST, PUT or DELETE requests for categories, products or tags will allow the user to create a new dataset, update a dataset or delete it. 
 
 A demo of the app can be viewed here: 
+
 [Part1](https://drive.google.com/file/d/1dU7uAPc93S36OZZ0z1LOT1iSamBNYMIn/view)
 
 [Part2](https://drive.google.com/file/d/1jsHGbkLbZ2rFSJrrtnTcwuQBVnDAysP_/view)
@@ -76,6 +77,7 @@ SOFTWARE.
 The repo for this project can be found here: https://github.com/nidaqg/e-commerce-backend
 
 video walkthrough links: 
+
 Part1: https://drive.google.com/file/d/1dU7uAPc93S36OZZ0z1LOT1iSamBNYMIn/view
 Part2: https://drive.google.com/file/d/1jsHGbkLbZ2rFSJrrtnTcwuQBVnDAysP_/view
 
